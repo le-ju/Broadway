@@ -22,3 +22,7 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.header {
+  background-image: url("resources/the_flatiron_building.png");
+}
