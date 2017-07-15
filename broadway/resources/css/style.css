@@ -26,3 +26,9 @@ p {
 .header {
   background-image: url("resources/the_flatiron_building.png");
 }
+
+
+.nav {
+  font-size: 18px;
+  color: white;
+}
