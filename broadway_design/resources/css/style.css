@@ -24,11 +24,22 @@ p {
 }
 
 .header {
-  background-image: url("resources/the_flatiron_building.png");
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 
 .nav {
   font-size: 18px;
   color: white;
+}
+
+#white {
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+  text-align: left;
 }
