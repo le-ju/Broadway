@@ -31,15 +31,30 @@ p {
 .nav {
   font-size: 18px;
   color: white;
+
 }
 
-#white {
+.white {
   color: white;
 }
 
-.footer {
+
+footer {
   background-color: dimgray;
   color: white;
   font-size: 11px;
   text-align: left;
 }
+
+.btn-nav {
+  color: white;
+}
+
+footer a{
+  display: inline-block;
+}
+
+#inline {
+  display: inline-block;
+}
+
